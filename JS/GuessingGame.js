@@ -16,7 +16,7 @@ while(true){
         guess = prompt("Hint : your guess was too Large. please try again");
     }
     else{
-        guess = prompt("Hint : your guess was too Small. please try again");
+        guess = prompt("Hint : your guess was too Small. Keep it up");
     }
   
 }
